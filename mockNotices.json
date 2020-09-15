@@ -10,7 +10,7 @@
       "en": {
         "title": "Sysadmin notice title",
         "actionText": "Download",
-        "actionParam": "https://github.com/mattermost/mattermost-webapp",
+        "actionParam": "https://github.com/mattermost/mattermost-server",
         "description": "your eyes only! [test](https://test.com)",
         "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png"
       }
