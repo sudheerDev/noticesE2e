@@ -8,7 +8,7 @@
     },
     "localizedMessages": {
       "en": {
-        "title": "title",
+        "title": "Sysadmin notice title",
         "actionText": "Download",
         "actionParam": "http://download.com/path",
         "description": "your eyes only! [test](https://test.com)",
@@ -25,8 +25,8 @@
     },
     "localizedMessages": {
       "en": {
-        "title": "title",
-        "description": "descr",
+        "title": "End user notice title",
+        "description": "End user notice description",
         "actionText": "Download",
         "actionParam": "http://download.com/path"
       }
