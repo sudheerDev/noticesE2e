@@ -1,35 +1,34 @@
 [
   {
-    "id": "1238",
+    "id": "125",
     "conditions": {
-      "audience": "all",
+      "audience": "sysadmin",
       "displayDate": "> 2020-03-01T00:00:00Z",
-      "serverConfig": {
-      },
       "numberOfUsers": 1
     },
     "localizedMessages": {
-      "en-US": {
-        "title": "title",
-        "description": "descr",
+      "en": {
+        "title": "Sysadmin notice title",
         "actionText": "Download",
-        "actionParam": "http://download.com/path"
+        "actionParam": "https://github.com/mattermost/mattermost-server",
+        "description": "your eyes only! [test](https://test.com)",
+        "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png"
       }
     }
   },
-  {
-    "id": "124",
+{
+    "id": "126",
     "conditions": {
-      "audience": "sysadmin",
-      "sku": "e10"
+      "audience": "all",
+      "displayDate": "> 2020-03-01T00:00:00Z",
+      "numberOfUsers": 1
     },
     "localizedMessages": {
-      "en-US": {
-        "title": "for sysadmin",
-        "description": "your eyes only! [test](https://test.com)",
-        "image": "https://raw.githubusercontent.com/reflog/notices-experiment/master/images/2020-08-11_11-42.png",
-        "actionText": "Download",
-        "actionParam": "http://download.com/path"
+      "en": {
+        "title": "End user notice title",
+        "description": "End user notice description",
+        "actionText": "Update",
+        "actionParam": "https://github.com/mattermost/mattermost-webapp"
       }
     }
   }
